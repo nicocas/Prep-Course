@@ -1,0 +1,5 @@
+Variable:espacio que la pc reserva para guardar valores que pueden ser útiles despues 
+Strings: cadena de caracteres, es un tipo de dato que el interprete reconoce como texto.
+Funciones: son objetos dentro del lenguaje, que sirven para realizar una determianda acción según el codigo que contengan. Luego podemos llamar a esta función según su nombre para que haga lo que esperamos
+
+
