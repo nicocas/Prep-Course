@@ -1,5 +1,9 @@
 Variable:espacio que la pc reserva para guardar valores que pueden ser útiles despues 
 Strings: cadena de caracteres, es un tipo de dato que el interprete reconoce como texto.
 Funciones: son objetos dentro del lenguaje, que sirven para realizar una determianda acción según el codigo que contengan. Luego podemos llamar a esta función según su nombre para que haga lo que esperamos
+Argumentos: son las variables que le damos a la función para que trabaje bajo esos parametros
+Statement RETURN: es la herramienta para que la función otorgue un determinado dato luego de ejecutarla. Esta herramienta corta la ejecución del código cuando llega a esta línea.
+Statement IF: es una herramienta que permite ejecutar una determinada acción si se cumple una condición dada
+Valores booleanos: son los valores con los que trabaja una computadora, solamente pueden ser dos, verdadero (true) o falso (false). En el caso del lenguaje de la maquina se ven como 1 (true) o 0 (false).
 
 
