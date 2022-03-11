@@ -1,0 +1,5 @@
+Objetos: son organizaciones de datos mediante pares clave/valor. Cada palabra clave tiene un valor asignado. Pueden contener cualquier tipo de dato.
+propiedades: son las palabras claves dentro del objeto que tienen un valor de cualquier tipo asignado.
+metodos: son funciones asignadas a una palabra clave
+bucle for... in: sirve para iterar sobre todas las propiedades de un objeto sin necesidad de contar con un indice y un bucle for nomarl. Tiene una sintaxis un poco diferente. 
+notacion de puntos vs corchetes: ambas son validas y nos permiten acceder a los valores de las propiedades. La notaci√≥n por corchetes tiene ventaja respecto a la de puntos porque podemos acceder a un par clave-valor mediante una variable que vaya a contener la clave. La notaci√n por puntos es mas dinamica y de sintaxis mas facil a la hora de acceder al valor. 
