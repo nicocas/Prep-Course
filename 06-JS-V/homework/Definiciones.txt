@@ -1,0 +1,2 @@
+prototype:  Para evitar crear repetidas veces un metodo en varios objetos, podemos crear el metodo en el prototipo de los objetos y de esta forma ahorrar espacio en la memoria. Cuando invoquemos dicho metodo en un objeto en particular, la computadora buscará el metodo primero en el objeto y en caso de no encontrarlo buscará en el prototipo.
+Constructors: es un tipo de funcion que nos permiten crear objetos a partir de ella, con las propiedades que esta contenga
